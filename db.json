@@ -1,94 +1,16 @@
-{
-    "cars": [
-      {
-        "id": 1,
-        "brand": "Tata",
-              "type":"Manual",
-        "year": 2019,
-        "kms": 10000,
-        "Description": "Tata Altroz with all original documents",
-        "Price": 500000
-      },
-      {
-        "id": 2,
-        "brand": "Tata",
-              "type":"AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      },
-      {
-        "id": 3,
-        "brand": "Mahindra",
-              "type":"Manual",
-        "year": 2019,
-        "kms": 10000,
-        "Description": "Tata Altroz with all original documents",
-        "Price": 60000
-      },
-      {
-        "id": 4,
-        "brand": "Honda",
-              "type":"AMT",
-        "year": 2020,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 10000
-      },
-      {
-        "id": 5,
-        "brand": "Creta",
-              "type":"Manual",
-        "year": 2019,
-        "kms": 10000,
-        "Description": "Tata Altroz with all original documents",
-        "Price": 600000
-      },
-      {
-        "id": 6,
-        "brand": "Tata",
-              "type":"AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 300000
-      },
-      {
-        "id": 7,
-        "brand": "Creta",
-              "type":"Manual",
-        "year": 2019,
-        "kms": 10000,
-        "Description": "Tata Altroz with all original documents",
-        "Price": 500000
-      },
-      {
-        "id": 8,
-        "brand": "Tata",
-              "type":"AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      },
-      {
-        "id": 9,
-        "brand": "Tata",
-              "type":"Manual",
-        "year": 2019,
-        "kms": 10000,
-        "Description": "Tata Altroz with all original documents",
-        "Price": 500000
-      },
-      {
-        "id": 10,
-        "brand": "Tata",
-              "type":"AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      }
+ {
+    "users": [
+        { "id": 1, "name":"Naresh Kumar H", "email":"nareshkumarh@live.com", 
+        "password":"pass123", "role": "USER"
+        },
+        { "id": 2, "name":"Tushant", "email":"tushant@gmail.com", 
+            "password":"pass123", "role": "ADMIN"
+        }
+    ],
+    "accounts":[
+
+    ],
+    "transactions":[
+
     ]
-  }
+}
