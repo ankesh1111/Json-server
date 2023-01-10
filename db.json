@@ -1,16 +1,18 @@
- {
-    "users": [
-        { "id": 1, "name":"Naresh Kumar H", "email":"nareshkumarh@live.com", 
-        "password":"pass123", "role": "USER"
-        },
-        { "id": 2, "name":"Tushant", "email":"tushant@gmail.com", 
-            "password":"pass123", "role": "ADMIN"
-        }
-    ],
-    "accounts":[
-
-    ],
-    "transactions":[
-
+{
+    "dogs": [
+      {
+        "id": 1,
+        "name": "Cherry",
+        "age": 2,
+        "place": "Visakhapatnam",
+        "gender": "Male"
+      },
+      {
+        "id": 1,
+        "name": "Tommy",
+        "age": 3,
+        "place": "Banglore",
+        "gender": "Female"
+      }
     ]
-}
+  }
